@@ -13,4 +13,4 @@ a npm wrapper for 无脑 pull 当前分支
 
 ## 感谢
 
-- luikore（https://ruby-china.org/topics/22748#reply7）
+- luikore（https://github.com/luikore）

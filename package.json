@@ -1,6 +1,6 @@
 {
   "name": "gup",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "gup is a npm wrapper for 无脑 pull 当前分支",
   "main": "index.js",
   "scripts": {

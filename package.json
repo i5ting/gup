@@ -1,7 +1,7 @@
 {
   "name": "gup",
-  "version": "1.1.0",
-  "description": "gup is a npm wrapper for 无脑 pull 当前分支",
+  "version": "1.1.1",
+  "description": "gup is a npm wrapper for git utils",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",

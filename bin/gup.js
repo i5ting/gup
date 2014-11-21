@@ -2,7 +2,8 @@
 
 require('shelljs/global');
 
-var cmd = "shell " + __dirname + "/gup.sh"
+var cmd = "sh " + __dirname + "/gup.sh"
+	
 // Run external tool synchronously
 if (exec(cmd).code !== 0) {
   echo('Error: Gup commit failed');

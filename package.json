@@ -1,0 +1,27 @@
+{
+  "name": "gup",
+  "version": "1.0.0",
+  "description": "gup ===",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm publish .",
+    "test": " node bin/gup"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "gup": "bin/gup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/gup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/gup/issues"
+  },
+  "homepage": "https://github.com/i5ting/gup",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  }
+}

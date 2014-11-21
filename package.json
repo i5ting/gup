@@ -9,7 +9,8 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "gup": "bin/gup.js"
+    "gup": "bin/gup.js",
+		"fsck": "bin/fsck.js",
   },
   "repository": {
     "type": "git",
